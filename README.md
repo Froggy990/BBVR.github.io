@@ -1,3 +1,3 @@
 <h1>This website is for my game BananaBlitzVR</h1>
-<p1>Link:</p1>
-<p2>Link: To download Oculus</p2>
+<h2>Website Link:</h2>
+<h3>Game Download Link:</h3>
